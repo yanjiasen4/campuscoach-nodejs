@@ -1,7 +1,6 @@
-# node-js-getting-started
+# campuscoach-nodejs
 
-一个简单的使用 Express 4 的 Node.js 应用。
-可以运行在 LeanEngine Node.js 运行时环境。
+校园教练正逐步迁移到leancloud
 
 ## 本地运行
 
